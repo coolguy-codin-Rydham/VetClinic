@@ -729,7 +729,7 @@ a {
   max-width: 80%;
   flex-wrap: wrap;
   align-items: center;
-  gap: 50px;
+  /* gap: 50px; */
 }
 .innerContainerFooter {
   display: flex;
@@ -1112,5 +1112,16 @@ a {
   }
   .p4{
     gap: 5rem;
+  }
+  .YeGridBanega {
+    gap: 25px;
+    height: 100%;
+  }
+  .innerContainerFooter{
+    height: 100%;
+  }
+  .footer{
+    height: 130vh;
+    padding-block: 2.5rem;
   }
 }
