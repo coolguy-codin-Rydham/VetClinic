@@ -28,7 +28,6 @@ html {
   z-index: 100;
   background-color: rgba(0, 0, 0, 0.295);
   backdrop-filter: blur(10px);
-  /* display:none; */
 }
 
 .ham {
@@ -261,12 +260,10 @@ animation: bounce 1s ease-in-out;
 .part2 {
   display: flex;
   height: 80vh;
-
   width: 100vw;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-
   background-color: rgb(245 245 245 / 1);
   padding-top: 7%;
   padding-bottom: 7%;
@@ -309,11 +306,9 @@ animation: bounce 1s ease-in-out;
   overflow: hidden;
   border-radius: 10px;
   border-style: none;
-
   background-color: rgb(255 196 0 / 1);
   padding: 10px 20px;
   font-size: 20px;
-
   color: rgb(245 245 245 / 1);
   outline: 2px solid transparent;
   outline-offset: 2px;
@@ -324,11 +319,6 @@ animation: bounce 1s ease-in-out;
   transition-duration: 0.3s;
 }
 .image2 {
-  /* position: relative;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0; */
   z-index: 20;
   display: flex;
   height: 100%;
@@ -340,14 +330,12 @@ animation: bounce 1s ease-in-out;
 
 .part3 {
   display: flex;
-  /* height: 100vh; */
   padding-top: 10%;
   padding-bottom: 10%;
   width: 100%;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-
   background-color: rgb(255 196 0 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -363,7 +351,6 @@ animation: bounce 1s ease-in-out;
 .vete3 {
   font-size: 70px;
   font-weight: 800;
-
   color: rgb(245 245 245 / 1);
 }
 
@@ -372,7 +359,6 @@ animation: bounce 1s ease-in-out;
   padding-bottom: 30px;
   font-size: 35px;
   font-weight: 600;
-
   color: rgb(245 245 245 / 1);
 }
 
@@ -408,12 +394,10 @@ animation: bounce 1s ease-in-out;
 
 .part4 {
   display: flex;
-  /* height: 80vh; */
   padding-block: 7%;
   width: 100vw;
   align-items: center;
   justify-content: center;
-
   background-color: rgb(245 245 245 / 1);
 }
 
@@ -436,7 +420,6 @@ animation: bounce 1s ease-in-out;
   background-color: rgb(255 196 0 / 1);
   padding: 10px 20px;
   font-size: 20px;
-
   color: rgb(245 245 245 / 1);
   outline: 2px solid transparent;
   outline-offset: 2px;
@@ -462,12 +445,10 @@ animation: bounce 1s ease-in-out;
 
 .part5 {
   display: flex;
-  /* height: 100vh; */
   width: 100%;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-
   background-color: rgb(255 196 0 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -496,11 +477,9 @@ animation: bounce 1s ease-in-out;
 }
 .part6 {
   display: flex;
-  /* height: 100vh; */
   width: 100%;
   align-items: center;
   justify-content: center;
-
   background-color: rgb(245 245 245 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -561,7 +540,6 @@ animation: bounce 1s ease-in-out;
   justify-content: center;
   overflow: hidden;
   border-radius: 50%;
-
   background-color: rgb(255 196 0 / 1);
 }
 .Whatsapp>a>img{
@@ -602,20 +580,17 @@ animation: bounce 1s ease-in-out;
   text-align: center;
   font-size: 30px;
   font-weight: 400;
-
   color: rgb(245 245 245 / 1);
 }
 .NumbersText {
   text-align: center;
   font-size: 30px;
   font-weight: 700;
-
   color: rgb(245 245 245 / 1);
 }
 
 .part8 {
   display: flex;
-  /* height: 140vh; */
   width: 100%;
   align-items: center;
   justify-content: center;
@@ -678,7 +653,6 @@ animation: bounce 1s ease-in-out;
   display: flex;
   flex-direction: column;
   overflow: hidden;
-
   background-color: rgb(255 255 255 / 1);
 }
 .CardsContentClass2 {
@@ -696,7 +670,6 @@ animation: bounce 1s ease-in-out;
 .Just1 > p {
   overflow: hidden;
   font-weight: 500;
-
   color: rgb(0 190 201 / 1);
 }
 .Just2 {
@@ -713,7 +686,6 @@ animation: bounce 1s ease-in-out;
   overflow: hidden;
   font-size: large;
   font-weight: 500;
-
   color: rgb(0 190 201 / 1);
 }
 .HeadingP8 {
@@ -722,7 +694,6 @@ animation: bounce 1s ease-in-out;
 
 a {
   cursor: pointer;
-
   color: rgb(245 245 245 / 1);
 }
 .footer {
@@ -731,7 +702,6 @@ a {
   width: 100%;
   align-items: center;
   justify-content: center;
-
   background-color: rgb(48 49 48 / 1);
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -765,12 +735,10 @@ a {
 .AboutList,
 .ServiceList {
   font-size: 27px;
-
   color: rgb(214 214 214 / 1);
 }
 .ContactContent {
   font-size: 23px;
-
   color: rgb(214 214 214 / 1);
 }
 .Contact {
@@ -795,31 +763,26 @@ a {
   justify-content: center;
   overflow: hidden;
   border-radius: 9999px;
-
   background-color: rgb(245 245 245 / 1);
   padding-top: 6px;
 }
 .InputMail {
   border-style: none;
-
   background-color: rgb(255 196 0 / 1);
   padding-left: 10px;
   padding-bottom: 0;
   font-size: 18px;
   font-weight: 500;
-
   color: rgb(255 255 255 / 1);
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
 .InputMail::-moz-placeholder {
   font-size: 18px;
-
   color: rgb(255 255 255 / 1);
 }
 .InputMail::placeholder {
   font-size: 18px;
-
   color: rgb(255 255 255 / 1);
 }
 
@@ -852,12 +815,6 @@ a {
   transform: rotateY(180deg);
   transition: 0.3s;
 }
-/* .coverer {
-  box-shadow: 10px 10px 10px #ac8400;
-} */
-/* .imageCard > img:hover {
-  box-shadow: 20px 20px 30px #e9e8e8;
-} */
 .part7 {
   background-image: url("./assets/Bgc.svg");
 }
@@ -876,7 +833,6 @@ a {
   .card1P7 {
     display: none;
   }
-  /* Navbar and Search Bar */
   .navbar > li > a {
     display: none;
   }
@@ -884,12 +840,10 @@ a {
     display: none;
   }
 
-  /* Hamburger Menu */
   .ham {
     display: block;
   }
 
-  /* Hero Section */
   .hero {
     height: 130vh;
   }
@@ -922,7 +876,6 @@ a {
   .bttn {
     font-size: 20px;
   }
-  /* Part 2 Section */
   .innerContainerPart2 {
     flex-direction: column;
     align-items: center;
@@ -941,9 +894,7 @@ a {
     font-size: 27px;
   }
 
-  /* Part 3 Section */
   .part3 {
-    /* height: 165vh; */
     padding-top: 10%;
     padding-bottom: 20%;
   }
@@ -957,7 +908,6 @@ a {
     display: none;
   }
 
-  /* Service Cards Section */
   .ServiceCards {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -968,9 +918,7 @@ a {
     font-size: 30px;
   }
 
-  /* Part 4 Section */
   .part4 {
-    /* height: 110vh; */
     flex-direction: column;
     padding-block: 20%;
   }
@@ -981,29 +929,15 @@ a {
   .image4 {
     width: 55%;
   }
-
-  /* Part 5 Section */
-  /* .part5 {
-    height: 160vh;
-  } */
-
-  /* Part 6 Section */
-  /* .part6 {
-    height: 160vh;
-  } */
-
-  /* Staff Images Section */
   .ImagesStaff {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1.25rem;
   }
 
-  /* Footer Section */
   .footer {
     height: 100vh;
   }
 
-  /* Cards in Part 8 Section */
   .CardsP8 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1012,12 +946,10 @@ a {
   .card3P7 {
     display: none;
   }
-  /* Dog Image in Hero Section */
   .dogImage {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
-  /* Font Sizes Adjustment */
   .vete {
     font-size: 50px;
   }
@@ -1025,39 +957,25 @@ a {
   .bttn {
     font-size: 15px;
   }
-  /* Part 2 Section Height */
 
-  /* Font Sizes in Part 3 Section */
   .vete3 {
     font-size: 60px;
   }
   .lorem3 {
     font-size: 25px;
   }
-  /* Font Sizes in Service Cards Section */
   .contentCard > p {
     font-size: 16px;
   }
   .contentCard > h3 {
     font-size: 25px;
   }
-  /* Part 5 Section Height */
-  /* .part5 {
-    height: 210vh;
-  } */
-  /* Part 6 Section Height */
-  /* .part6 {
-    height: 240vh;
-  } */
-  /* Staff Images Section */
   .ImagesStaff {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
-  /* Footer Section */
   .footer {
     height: 150vh;
   }
-  /* Additional Adjustments */
   .pc2 {
     display: none;
   }
@@ -1065,7 +983,6 @@ a {
   .pc3 {
     display: none;
   }
-  /* Cards in Part 8 Section */
   .CardsP8 {
     grid-template-columns: repeat(1, minmax(0, 1fr));
   }
@@ -1091,20 +1008,15 @@ a {
   .card3P7 {
     display: none;
   }
-  /* Font Sizes in Part 3 Section */
   .ServiceCards {
     flex-direction: column;
   }
-  /* .part5 {
-    height: 250vh;
-  } */
   .vete3 {
     font-size: 55px;
   }
   .lorem3 {
     font-size: 20px;
   }
-  /* Font Sizes in Service Cards Section */
   .contentCard > p {
     font-size: 14px;
   }
